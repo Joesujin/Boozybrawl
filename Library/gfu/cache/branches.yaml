@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2019-08-07T17:03:46.375+05:30
+  initializedAtString: 2019-08-07T16:59:59.599+05:30
+  localBranches:
+  - name: master
+    tracking: origin/master
+  - name: Jenna_pick/throw_1
+    tracking: origin/Jenna_pick/throw_1
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/Jenna_pick/throw_1
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/Joesujin/Boozybrawl.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - master
+    - Jenna_pick/throw_1
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/Joesujin/Boozybrawl.git
+      trackingBranch: master
+    - name: Jenna_pick/throw_1
+      remote:
+        name: origin
+        url: https://github.com/Joesujin/Boozybrawl.git
+      trackingBranch: Jenna_pick/throw_1
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+      - Jenna_pick/throw_1
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Joesujin/Boozybrawl.git
+        trackingBranch: 
+      - name: Jenna_pick/throw_1
+        remote:
+          name: origin
+          url: https://github.com/Joesujin/Boozybrawl.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/Joesujin/Boozybrawl.git
