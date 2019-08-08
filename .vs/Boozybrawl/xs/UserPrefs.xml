@@ -1,11 +1,14 @@
-﻿<Properties StartupConfiguration="{C562E032-702D-8FA2-303D-61779FE229DD}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AnimFollow/Scripts/MasterScripts/PlayerMovement_AF.cs">
+﻿<Properties StartupConfiguration="{3E6382A1-CC30-E333-CD16-F1314CBC3743}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InputManager.cs">
     <Files>
       <File FileName="Assets/AnimFollow/Scripts/SimpleFootIKScripts_AF/SimpleFootIK_AF.cs" Line="35" Column="2" />
       <File FileName="Assets/AnimFollow/Scripts/RagdollScripts/AnimFollow_AF.cs" Line="130" Column="79" />
       <File FileName="Assets/AnimFollow/Scripts/RagdollScripts/ReplaceJoints_AF.cs" Line="1" Column="1" />
       <File FileName="Assets/AnimFollow/Scripts/RagdollScripts/ResizeProfiles_AF.cs" Line="1" Column="1" />
       <File FileName="Assets/AnimFollow/Scripts/MasterScripts/PlayerMovement_AF.cs" Line="1" Column="1" />
+      <File FileName="Assets/Jennifer/Prefabs/scripts/Plyer1Script.cs" Line="116" Column="1" />
+      <File FileName="Assets/Jennifer/Prefabs/scripts/Plyer2Script.cs" Line="81" Column="42" />
+      <File FileName="Assets/Scripts/InputManager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
